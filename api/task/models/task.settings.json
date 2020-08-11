@@ -9,10 +9,10 @@
     "timestamps": true
   },
   "attributes": {
-    "Name": {
+    "name": {
       "type": "string"
     },
-    "Kategorie": {
+    "cathegory": {
       "type": "enumeration",
       "enum": [
         "Selbstoptimierung",
