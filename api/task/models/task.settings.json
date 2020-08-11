@@ -12,8 +12,19 @@
     "Name": {
       "type": "string"
     },
-    "Cathegory": {
-      "type": "string"
+    "Kategorie": {
+      "type": "enumeration",
+      "enum": [
+        "Selbstoptimierung",
+        "Lohnarbeit",
+        "Liebesleben",
+        "Freizeit",
+        "Finanzen",
+        "Familie",
+        "Haushalt",
+        "Urlaub",
+        "sonstso"
+      ]
     }
   }
 }
